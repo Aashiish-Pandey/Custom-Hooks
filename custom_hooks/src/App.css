@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  height: 50px;
+  width: 400px;
+  border-radius: 10px;
+}
